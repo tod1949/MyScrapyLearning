@@ -12,7 +12,7 @@ using System.Runtime.InteropServices;
 
 namespace MyScrapyLearning
 {
-    class Program
+    class ProgramLearning
     {
         static void Main(string[] args)
         {
